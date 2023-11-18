@@ -1,0 +1,31 @@
+body{
+    background-color: #332232;
+}
+
+#container{
+    background-color: #0e2431;
+    border:5px solid #f5e4c3;
+    margin:auto;
+    text-align: center;
+    height:275px;
+    width:600px;
+}
+
+#btn{
+    margin: 50px auto;
+    height:50px;
+    width:250px;
+    font-size: 20px;
+    background-color: rgb(192,191,191);
+}
+
+#btn:hover{
+    cursor: pointer;
+}
+
+#output{
+    margin:25px auto;
+    font-size:26px;
+    color:white;
+
+    }
